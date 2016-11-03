@@ -1,2 +1,2 @@
 # testGit
-dev1
+master->dev1
